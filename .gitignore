@@ -1,0 +1,21 @@
+# Python (Django)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+env/
+venv/
+db.sqlite3
+instance/
+*.pot
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.env
+settings_local.py
+config/
